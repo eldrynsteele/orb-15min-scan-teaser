@@ -7,12 +7,15 @@ or already played out.
 
 **Use Muse for best results.** Install this teaser in Muse and ask Muse to
 run the scan. It works as an on-demand scan — you ask for a read, it grades
-the tickers. It does not send trade pings on its own.
+the tickers. It does not send trade pings on its own. Using another agent
+provider? Give it this repo's `SKILL.md` and ask for the same scan — it
+works, but best results are with Muse.
 
 ## What's here
 
 - `SKILL.md` — the teaser skill. Drop it into Muse and ask it to run the scan.
 - `SETUP-MEMO.md` — how to set the teaser up in Muse: join, install, run.
+  Also covers using another agent provider instead.
 - `PINGS-MEMO.md` — confirms the teaser works on its own, and that trade
   pings come with the full skill purchase.
 

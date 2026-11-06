@@ -1,6 +1,6 @@
 ---
 name: orb-15min-scan-teaser
-description: Free teaser for the ORB 15-minute opening-range breakout system. Teaches the 9:50 scan: mark the 9:30-9:45 ET opening range, wait for a candle CLOSE beyond it, confirm with volume and VWAP, then grade each ticker ready, waiting, rejected, or already played out. Includes a manual scan procedure, 1:1 risk/reward rules, and where to buy the full automated skill. Use in Muse for best results.
+description: Free teaser for the ORB 15-minute opening-range breakout system. Teaches the 9:50 scan: mark the 9:30-9:45 ET opening range, wait for a candle CLOSE beyond it, confirm with volume and VWAP, then grade each ticker ready, waiting, rejected, or already played out. Includes a manual scan procedure, 1:1 risk/reward rules, and where to buy the full automated skill. Use in Muse for best results; also works in another agent provider by loading SKILL.md.
 ---
 
 # ORB 15-Minute Scan — Free Teaser
@@ -11,7 +11,9 @@ manual scan you can run yourself. The full skill automates all of this.
 
 **Use Muse for best results.** Install this teaser in Muse and ask Muse to
 run the scan — that is how it is meant to be used. Setup is in
-`SETUP-MEMO.md` in this repo. This teaser works in Muse
+`SETUP-MEMO.md` in this repo. If you use another agent provider, give it
+this repo's `SKILL.md` and ask for the same scan — it works, but best
+results are with Muse. This teaser works in Muse
 as an on-demand scan: you ask for a read, it grades the tickers. It does not
 send trade pings on its own.
 

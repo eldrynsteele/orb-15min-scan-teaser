@@ -6,6 +6,8 @@ Yes — this free teaser works. Install it in Muse (for best results, use
 Muse), ask Muse to run the scan, and it will grade your tickers
 ready / waiting / rejected / already played out, using the manual scan in
 `SKILL.md`. Nothing is ordered without a preview and your explicit yes.
+Using another agent provider? Give it `SKILL.md` and ask for the same scan
+— it works, but best results are with Muse.
 
 ## What the teaser does not do
 

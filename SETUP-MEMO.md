@@ -34,6 +34,15 @@ Use your own watchlist if you prefer — the scan works on any ticker with
 real volume. Have your chart open: the scan marks the 9:30–9:45 ET opening
 range, then looks for a candle CLOSE beyond it.
 
+## Alternative — using another agent provider
+
+If you prefer another agent provider, you can still use the teaser: give
+your agent this repo's `SKILL.md` and ask it to run the 9:50 scan the same
+way — same manual scan, same grades, same preview + explicit yes.
+
+Best results are still with Muse. That is how the teaser is set up and
+tested, and the full skill's pings install is written for Muse.
+
 ## Step 4 — What to expect
 
 - Muse grades each ticker ready / waiting / rejected / already played out.

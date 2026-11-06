@@ -12,6 +12,7 @@ the tickers. It does not send trade pings on its own.
 ## What's here
 
 - `SKILL.md` — the teaser skill. Drop it into Muse and ask it to run the scan.
+- `SETUP-MEMO.md` — how to set the teaser up in Muse: join, install, run.
 - `PINGS-MEMO.md` — confirms the teaser works on its own, and that trade
   pings come with the full skill purchase.
 

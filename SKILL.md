@@ -10,7 +10,8 @@ A free introduction to the opening-range breakout (ORB) system behind the paid
 manual scan you can run yourself. The full skill automates all of this.
 
 **Use Muse for best results.** Install this teaser in Muse and ask Muse to
-run the scan — that is how it is meant to be used. This teaser works in Muse
+run the scan — that is how it is meant to be used. Setup is in
+`SETUP-MEMO.md` in this repo. This teaser works in Muse
 as an on-demand scan: you ask for a read, it grades the tickers. It does not
 send trade pings on its own.
 

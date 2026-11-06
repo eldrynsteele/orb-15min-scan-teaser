@@ -1,6 +1,6 @@
 ---
 name: orb-15min-scan-teaser
-description: Free teaser for the ORB 15-minute opening-range breakout system. Teaches the 9:50 scan: mark the 9:30-9:45 ET opening range, wait for a candle CLOSE beyond it, confirm with volume and VWAP, then grade each ticker ready, waiting, rejected, or already played out. Includes a manual scan procedure, 1:1 risk/reward rules, and where to buy the full automated skill.
+description: Free teaser for the ORB 15-minute opening-range breakout system. Teaches the 9:50 scan: mark the 9:30-9:45 ET opening range, wait for a candle CLOSE beyond it, confirm with volume and VWAP, then grade each ticker ready, waiting, rejected, or already played out. Includes a manual scan procedure, 1:1 risk/reward rules, and where to buy the full automated skill. Use in Muse for best results.
 ---
 
 # ORB 15-Minute Scan — Free Teaser
@@ -8,6 +8,11 @@ description: Free teaser for the ORB 15-minute opening-range breakout system. Te
 A free introduction to the opening-range breakout (ORB) system behind the paid
 `orb-15min-breakout` Claude skill. This teaser teaches you the concept and a
 manual scan you can run yourself. The full skill automates all of this.
+
+**Use Muse for best results.** Install this teaser in Muse and ask Muse to
+run the scan — that is how it is meant to be used. This teaser works in Muse
+as an on-demand scan: you ask for a read, it grades the tickers. It does not
+send trade pings on its own.
 
 Educational tool, not financial advice. Trading involves risk and you can lose money.
 
@@ -50,6 +55,10 @@ The paid `orb-15min-breakout` skill automates this entire scan inside Claude:
 it pulls the data, draws the range, grades every ticker with reasons, and builds
 the 1:1 entry preview for your approval. It also ships with the rules script,
 a Robinhood setup guide, and trading-day prompts.
+
+Trade pings for setups come with the full skill purchase — see
+`PINGS-MEMO.md` in this repo. The teaser itself does not ping; the full skill
+includes the install memo for setting up pings on your own Muse agent.
 
 - **Skill alone:** $100 — https://lifeoscoach.wixsite.com/eldryn-steele-tradin
 - **Bundle (skill + "The Master Blueprint to Profitable Trading" book):** $60
